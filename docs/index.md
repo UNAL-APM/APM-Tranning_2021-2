@@ -4,6 +4,12 @@ You can use the [video youtube](https://www.youtube.com/watch?v=RRyomkZHSWY) to 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="http://eepurl.com/bUDMID">Sign me up!</a>
+
+<a href="https://link1.com" style="color:#54bbff;text-decoration:none;border:2px solid #54bbff;border-radius:4px;padding:8px 14px;font-size:30px;">Link 1</a>
+<a href="https://link2.com" style="color:#54bbff;text-decoration:none;border:2px solid #54bbff;border-radius:4px;padding:8px 14px;font-size:30px">Link 2</a>
+<a href="https://link3.com" style="color:#54bbff;text-decoration:none;border:2px solid #54bbff;border-radius:4px;padding:8px 14px;font-size:30px">Link 3</a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
