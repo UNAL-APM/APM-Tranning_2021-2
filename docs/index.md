@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <a href="https://link2.com" style="color:#54bbff;text-decoration:none;border:2px solid #54bbff;border-radius:4px;padding:8px 14px;font-size:30px">Link 2</a>
 <a href="https://link3.com" style="color:#54bbff;text-decoration:none;border:2px solid #54bbff;border-radius:4px;padding:8px 14px;font-size:30px">Link 3</a>
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="robot.jpg" alt="Italian Trulli">
 
 ### Markdown
 
